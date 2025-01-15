@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { toast } from 'react-toastify'
+import { toast } from 'react-toastify' ;
 
 const Cart = (props) => {
     console.log(props.abcd)
